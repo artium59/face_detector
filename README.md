@@ -20,7 +20,7 @@ optional arguments:
     - Python 3.7.3
     - OpenCV 3.4.2
     - model.py     : azure cognitiveservice vision face 0.4.0
-      free_model.py: cognitive face 1.5.0
+    - free_model.py: cognitive face 1.5.0
 
 2. If you use this, you should get a subscription key in [Face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/).
 
