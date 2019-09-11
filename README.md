@@ -24,4 +24,6 @@ optional arguments:
 
 2. If you use this, you should get a subscription key in [Face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/).
 
-3. If you use Guest Account(7-day trial), you use free_model.py, and change face_detection.py
+3. If you use Guest Account(7-day trial), you use free_model.py and change [this](https://github.com/artium59/face_detector/blob/d24174f4707c9ba5508f86ac445e1b3a52b3b9fb/face_detecion.py#L2) model to free_model.
+
+4. You should change KEY and BASE_URL / ENDPOINT_STRING.
