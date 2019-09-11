@@ -8,10 +8,10 @@
 usage: python face_detection.py [--type] [--input] [--output]
 
 optional arguments:
-  -h, --help      show this help message and exit
-  --type TYPE     choose picture(p) or video(v)
-  --input INPUT   input path
-  --output OUTPUT output path
+  -h, --help       show this help message and exit
+  --type TYPE      choose picture(p) or video and webcam(v)
+  --input INPUT    input path
+  --output OUTPUT  output path (if 0, use webcam.)
 ```
 
 ---
